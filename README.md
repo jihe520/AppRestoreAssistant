@@ -1,8 +1,21 @@
-# AppRestoreAssistant 🚀
+# 应用恢复助手 🚀
 
-**应用恢复助手**
+**App Restor eAssistant**
 
 > [English Version](README_EN.md)
+
+<div style="text-align: center;">
+  <img src="./assets/icon2.png" alt="Image description" width="400"/>
+</div>
+
+## 简介
+
+<div style="text-align: center;">
+  <img src="./assets/exmple.png" alt="Image description" width="400"/>
+</div>
+
+
+![]()
 
 经常因为软件开得太多，每次关机后重新打开所有应用，真的让人感到烦恼。`AppRestoreAssistant` 旨在帮助你记录当前所有打开的应用程序，并在你重新启动计算机后快速恢复这些应用程序，让你可以立即进入工作状态！
 
@@ -10,6 +23,7 @@
 
 - **记录当前所有打开的应用程序** 📝
 - **在开机后恢复记录的所有应用程序** 🔄
+- **可视化的界面** 
 
 ## 依赖库 📦
 
