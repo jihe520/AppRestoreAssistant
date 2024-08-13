@@ -1,0 +1,17 @@
+# requirements.txt
+
+altgraph==0.17.4
+darkdetect==0.8.0
+packaging==24.1
+pefile==2023.2.7
+psutil==6.0.0
+PyGetWindow==0.0.9
+pyinstaller==6.10.0
+pyinstaller-hooks-contrib==2024.8
+PyQt6==6.7.1
+PyQt6-Frameless-Window==0.3.9
+PyQt6-Qt6==6.7.2
+PyQt6_sip==13.8.0
+PyRect==0.2.0
+pywin32==306
+pywin32-ctypes==0.2.2
